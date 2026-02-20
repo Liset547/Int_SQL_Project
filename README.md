@@ -93,7 +93,7 @@ Query: [3_tetention_analysis.sql](3_retention_analysis.sql)
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** Excel, Tableau
 
 
