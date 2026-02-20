@@ -40,6 +40,7 @@ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
 
 ** Visualization:**
+<img src="/images/2_cohort_analysis.png" alt="Cohort Analysis" style="width:50%; height: auto;">
 
 ![Cohort Analysis](images\2_cohort_analysis.png)
 
