@@ -52,7 +52,7 @@ Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
 - With both lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline     
 
 ### 3. Customer Retention
-Query: [3_Retention_analysis.sql](3_retention_analysis.sql)
+Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
