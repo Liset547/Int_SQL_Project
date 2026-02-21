@@ -17,7 +17,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
-** Visualization:**
+**Visualization:**
 <img src="/images/1_customer_segmentation.png" alt="Customer Segmentation" style="width:50%; height: auto;">
 
 **Key Findings.**
@@ -38,7 +38,7 @@ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
 Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
 
-** Visualization:**
+**Visualization:**
 <img src="/images/2_cohort_analysis.png" alt="Cohort Analysis" style="width:50%; height: auto;">
 
 **Key Findings.**
@@ -58,7 +58,7 @@ Query: [3_tetention_analysis.sql](3_retention_analysis.sql)
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics
 
-** Visualizations:**
+**Visualizations:**
 <img src="/images/3_retention_analysis.png" alt="Retention Analysis" style="width:50%; height: auto;">
 
 **Key Findings:**
