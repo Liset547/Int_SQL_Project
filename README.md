@@ -58,7 +58,7 @@ Query: [3_tetention_analysis.sql](3_retention_analysis.sql)
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics
 
-**Visualizations:**
+**Visualization:**
 <img src="/images/3_retention_analysis.png" alt="Retention Analysis" style="width:50%; height: auto;">
 
 **Key Findings:**
